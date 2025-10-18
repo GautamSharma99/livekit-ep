@@ -1,0 +1,9 @@
+{
+    "sip_trunk_id": "ST_sHiH2W67c8G7",
+    "sip_call_to": "+919021188628",
+    "room_name": "outbound-room",
+    "participant_identity": "sip-out",
+    "participant_name": "Outbound Agent",
+    "krisp_enabled": true,
+    "wait_until_answered": true
+}

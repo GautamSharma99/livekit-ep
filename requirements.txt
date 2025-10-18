@@ -1,0 +1,12 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-cartesia
+livekit-plugins-deepgram
+livekit-plugins-silero
+# optional, only when using LiveKit's turn detection model
+livekit-plugins-turn-detector
+# optional, only if background voice & noise cancellation is needed
+livekit-plugins-noise-cancellation
+python-dotenv
+livekit-agents[sarvam]~=1.2
+livekit-agents[elevenlabs]
